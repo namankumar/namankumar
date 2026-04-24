@@ -1,22 +1,20 @@
 # Naman Kumar
 
-Product. Crypto and AI.
+Product. Crypto × AI.
 
-I build at the intersection of crypto and AI — privacy infrastructure, onchain agents, and AI systems that do real work. 
+Building at the intersection of privacy infrastructure and AI systems — things where the tech is load-bearing, not decorative.
 
 ---
 
-## Projects
+**[product-os](https://github.com/namankumar/product-os)** — A forkable AI harness for product work. 21 skills across strategy, research, roadmap, competitive analysis, PRDs, meeting notes, user tracking, comms, and social content. Each skill is a markdown file — plain instructions Claude Code reads and executes. Fork it, fill in the placeholders, and a small team runs like a much larger one.
 
-**[product-os](https://github.com/namankumar/product-os)** — An AI harness for product work. Skills, context, and output — structured so Claude Code operates as a capable thought partner across strategy, research, roadmap, and execution. Fork it, fill in the placeholders, start working with an AI that knows your product and how you think.
+**[alloy](https://github.com/namankumar/alloy)** — What Claude Code is for coding, Alloy is for knowledge work. An agent harness with a GUI and web layer — skills, context, orchestration, file-based output — built for product teams instead of engineers. Multiplayer at the foundation. Self-hostable. Own your AI workflow, not rent it. Spec phase.
 
-**[alloy](https://github.com/namankumar/alloy)** — Claude Code for knowledge workers. The same model as Claude Code — skills, context management, agent orchestration, file-based output — with a GUI and a web layer instead of a CLI. Multiplayer at the foundation. Self-hostable sync so files never touch vendor infrastructure. Spec phase.
+**[private-defi-agent](https://github.com/namankumar/private-defi-agent)** — Privacy-preserving agent for cross-chain fills: yield, prediction markets, perps. Built on state machines — a policy engine computes legal actions at each phase, Claude reads on-chain state and picks one. The model decides; the policy enforces.
 
-**[private-defi-agent](https://github.com/namankumar/private-defi-agent)** — Privacy-preserving, LLM-owned cross-chain DeFi agent. A policy engine computes what actions are legal at each phase of the operation. Claude reads on-chain state and picks one. The model decides; the policy enforces. File-based state survives interruption. Runs on cron.
+**[privacy-score](https://github.com/namankumar/privacy-score)** — Every blockchain analytics tool tells you what it can learn about a wallet. This answers the other direction. Paste an Ethereum address, get a 0–100 privacy score across six categories — entity exposure, identity leaks, timing patterns, cross-chain linkability, and more — with a plain-English breakdown of what's exposed and how to fix it.
 
-**[privacy-score](https://github.com/namankumar/privacy-score)** — Privacy Score tells you what your wallet reveals — before someone else figures it out. Paste an Ethereum mainnet address, get a 0-100 score across six categories, with an AI-generated plain-English breakdown of what's exposed and how to fix it.
-
-**[bloom-tutor](https://github.com/namankumar/bloom-tutor)** — Benjamin Bloom's 1984 finding: 1-on-1 tutoring puts children 2 standard deviations ahead of classroom peers. Almost no child gets it. This is a daily AI tutor system built on Claude voice mode, with a persistent session log, a five-day curriculum, and a math game. Runs 30 min/day.
+**[bloom-tutor](https://github.com/namankumar/bloom-tutor)** — Benjamin Bloom's 1984 study found 1-on-1 tutoring puts students two standard deviations ahead of classroom peers. Almost no child gets it. This is a daily AI tutor on Claude voice mode — persistent session log, five-day curriculum, math game. 30 minutes a day.
 
 ---
 
