@@ -2,7 +2,7 @@
 
 Product. Crypto and AI.
 
-I build at the intersection of crypto and AI — privacy infrastructure, onchain agents, and AI systems that do real work. Not wrappers around models or token dashboards, but things where the tech is load-bearing.
+I build at the intersection of crypto and AI — privacy infrastructure, onchain agents, and AI systems that do real work. 
 
 ---
 
