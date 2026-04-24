@@ -12,7 +12,7 @@ I build at the intersection of crypto and AI — privacy infrastructure, onchain
 
 **[alloy](https://github.com/namankumar/alloy)** — Claude Code for knowledge workers. The same model as Claude Code — skills, context management, agent orchestration, file-based output — with a GUI and a web layer instead of a CLI. Multiplayer at the foundation. Self-hostable sync so files never touch vendor infrastructure. Spec phase.
 
-**[private-defi-agent](https://github.com/namankumar/private-defi-agent)** — LLM-owned cross-chain DeFi agent. A policy engine computes what actions are legal at each phase of the operation. Claude reads on-chain state and picks one. The model decides; the policy enforces. File-based state survives interruption. Runs on cron.
+**[private-defi-agent](https://github.com/namankumar/private-defi-agent)** — Privacy-preserving, LLM-owned cross-chain DeFi agent. A policy engine computes what actions are legal at each phase of the operation. Claude reads on-chain state and picks one. The model decides; the policy enforces. File-based state survives interruption. Runs on cron.
 
 **[privacy-score](https://github.com/namankumar/privacy-score)** — Privacy Score tells you what your wallet reveals — before someone else figures it out. Paste an Ethereum mainnet address, get a 0-100 score across six categories, with an AI-generated plain-English breakdown of what's exposed and how to fix it.
 
