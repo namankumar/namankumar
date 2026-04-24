@@ -1,8 +1,8 @@
 # Naman Kumar
 
-Product. Crypto × AI. YC S16.
+Shipping Product. YC S16.
 
-Building at the intersection of privacy infrastructure and AI systems. The tech is load-bearing, not decorative.
+Building at the intersection of AI and blockchain infrastructure.
 
 ---
 
