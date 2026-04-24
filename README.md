@@ -1,8 +1,8 @@
 # Naman Kumar
 
-Product. Building with AI.
+Product. Crypto and AI.
 
-I make things that use AI to do real work — not wrappers around models, but systems where AI reads state, makes decisions, and drives outcomes. The projects below show what that looks like in practice.
+I build at the intersection of crypto and AI — privacy infrastructure, onchain agents, and AI systems that do real work. Not wrappers around models or token dashboards, but things where the tech is load-bearing.
 
 ---
 
