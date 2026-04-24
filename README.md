@@ -6,7 +6,7 @@ Building at the intersection of privacy infrastructure and AI systems. The tech 
 
 ---
 
-**[product-os](https://github.com/namankumar/product-os)** — An AI harness for product work. 21 skills: research, strategy, narrative, PRDs, comms, social. Each a repeatable process that compounds over time. Your robot army.
+**[product-os](https://github.com/namankumar/product-os)** — An AI harness for product work. 21 skills across the full product lifecycle: research, strategy, narrative, PRDs, comms, social. Each a repeatable process. Context compounds over time. A small team runs like a much larger one.
 
 **[alloy](https://github.com/namankumar/alloy)** — What Claude Code is for coding, Alloy is for knowledge work. Most AI tools are chat-first. The output lives in the conversation. Alloy is file-first: skills, context, orchestration, persistent output. Multiplayer at the foundation. Self-hostable. Own your AI workflow, not rent it. Spec phase.
 
