@@ -18,9 +18,11 @@ Trace movements, decode EVM receipts and internal calls, and reconcile balances 
 
 A TypeScript/Next.js wallet-analysis project combining deterministic scoring across six privacy categories with Claude-generated explanations and remediation guidance. Developed during work at Provable.
 
+## Earlier work
+
 ### [Build Resilience](https://github.com/namankumar/build-resilience)
 
-A React Native/Expo application with a Python/FastAPI backend. Model-backed workflows analyze a setback, offer a reframe and suggest a small next action. An implementation project, without a claim of clinical efficacy.
+A Python/FastAPI backend with specialized model-backed workflows for conversation analysis, reframing and small next actions. The original mobile client is not retrievable from the current repository, so its README distinguishes the available backend from the incomplete mobile checkout.
 
 ---
 
