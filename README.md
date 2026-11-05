@@ -10,13 +10,17 @@ Previously founded a YC-backed company, delivered wallet initiatives driving **$
 
 The original skills and context templates I built for company planning, status reviews, research and product work. File-based workflows run through an agent host; private company context and source access are excluded.
 
+### [Company Knowledge System](https://github.com/namankumar/company-knowledge-system)
+
+Original permission-aware company-knowledge backend: source normalization and access envelopes, authorized retrieval, budgeted context packs, grounded answer synthesis and evidence verification. Includes original offline tests; company data, credentials and deployment configuration remain private.
+
 ### [Agent Infrastructure](https://github.com/namankumar/agent-infrastructure)
 
 A SQLite-backed workspace, browser UI, MCP server, app bridge and hosted OAuth adapter. Includes versioned updates, replay-safe mutations, source references and 73 original tests. Runs locally with an empty database.
 
 ### [Voice and SMS Operations](https://github.com/namankumar/voice-sms-operations)
 
-Original TypeScript call-orchestration code: request verification, scoped permits, workflow persistence, provider readback and owned handoffs. Includes 22 integration tests. Client data and live telephony/SMS adapters remain private.
+Original TypeScript call-orchestration code and the actual staff dashboard: scoped permits, workflow persistence, provider readback, conversation queues and owned handoffs. Includes a static dashboard preview and original offline tests. Client data, credentials and live telephony/SMS configuration remain private.
 
 ### [Onchain Portfolio Reconstruction](https://github.com/namankumar/onchain-portfolio-reconstruction)
 
